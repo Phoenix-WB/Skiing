@@ -1,0 +1,23 @@
+{  
+  "_comment": "Translation (es_es) by PhoenixWB",
+  "block.skiing.acacia_ski_rack": "Portaesquís de Acacia",
+  "block.skiing.birch_ski_rack": "Portaesquís de Abedul",
+  "block.skiing.crimson_ski_rack": "Portaesquís Carmesí",
+  "block.skiing.dark_oak_ski_rack": "Portaesquís de Roble Oscuro",
+  "block.skiing.jungle_ski_rack": "Portaesquís de Jungla",
+  "block.skiing.oak_ski_rack": "Portaesquís de Roble",
+  "block.skiing.spruce_ski_rack": "Portaesquís de Pícea",
+  "block.skiing.warped_ski_rack": "Portaesquís Distorsionado",
+  "entity.minecraft.villager.skiing.skis_merchant": "Mercante de Esquís",
+  "entity.skiing.skis_entity": "Esquís",
+  "entity.skiing.snowboard_entity": "Tabla de Snowboard ",
+  "item.skiing.chocolate_cup": "Taza de Chocolate",
+  "item.skiing.pullover": "Suéter",
+  "item.skiing.ski_stick": "Palo de Esquí",
+  "item.skiing.skis_item": "Esquís",
+  "item.skiing.snow_shovel": "Pala de Nieve",
+  "item.skiing.snowboard_item": "Tabla de Snowboard",
+  "itemGroup.skiing": "Esquiando",
+  "skiing.tooltip.snow_shovel": "Con este te puedes romper una zona 3 por 3 de nieve en seguida.",
+  "skiing.tooltip.type": "Tipo"
+}
